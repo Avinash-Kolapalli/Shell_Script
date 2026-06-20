@@ -10,7 +10,3 @@ echo "$person1: Hi $person2, how are you?"
 echo "$person2: Hi $person1, I'm doing well, thanks! How about you?"
 echo "$person1: I'm good too, thanks for asking!"
 echo "End of conversation."
-
-git add Practice-01.sh
-git commit -m "Add Practice-01.sh with a sample conversation"
-git push origin main
